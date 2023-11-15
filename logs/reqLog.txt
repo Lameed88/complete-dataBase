@@ -268,3 +268,15 @@
 20231115	11:33:22	b35a625c-a4b7-452e-b784-08f80a6002fd	GET	http://localhost:5173	/users
 20231115	11:33:56	a9c8b75f-500e-4f25-857b-11b31014701c	GET	undefined	/users
 20231115	11:33:56	8d9eb472-fc53-4ac8-846d-177991027c3d	GET	undefined	/favicon.ico
+20231115	12:19:27	145f282b-8d7f-4071-b037-9a79ba9d5b98	GET	http://localhost:5173	/users
+20231115	12:19:27	a02c22a4-c295-4dbd-9629-837ff8ba4bd2	GET	http://localhost:5173	/users
+20231115	12:27:43	e125578d-165d-4fe3-9185-09aee61b0871	OPTIONS	http://localhost:5173	/auth
+20231115	12:27:43	ff795a9d-d0f8-42cb-8d27-b3e937d708d2	POST	http://localhost:5173	/auth
+20231115	12:27:44	1da05826-ee72-4234-ab9a-3ced69636a9f	GET	http://localhost:5173	/users
+20231115	12:28:49	8f9901c2-953f-49b7-a508-2e3ea0c368ec	GET	http://localhost:5173	/users
+20231115	12:28:49	76ffe322-2ddd-4b88-b4b9-882b9fa16915	GET	http://localhost:5173	/users
+20231115	12:30:45	3299aa1e-af38-475f-b99a-556f8e1cee6c	OPTIONS	http://localhost:5173	/auth
+20231115	12:30:45	483bf36b-df77-49b7-a91e-e361f160e5ab	POST	http://localhost:5173	/auth
+20231115	12:30:46	af76f149-e084-4a11-9186-932cc45db05f	GET	http://localhost:5173	/users
+20231115	12:30:48	ae81d3de-c433-4ca0-a9eb-8508325d7fba	GET	http://localhost:5173	/refresh
+20231115	12:38:37	e59387d9-de40-4914-8b9f-d6673880bcb8	GET	http://localhost:5173	/users
