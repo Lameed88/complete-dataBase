@@ -262,3 +262,9 @@
 20231115	11:21:29	dcb5813f-bf91-413f-8a88-da33b862c24a	POST	http://localhost:5173	/auth
 20231115	11:21:31	706f2248-b7d7-4081-9210-e2fb6cc0d2df	GET	http://localhost:5173	/users
 20231115	11:21:32	e634bf9b-6214-4f4f-a964-eabb2fdccdf6	GET	http://localhost:5173	/users
+20231115	11:33:19	2cefa917-5f2d-4716-8bc3-88dfb3cb8814	OPTIONS	http://localhost:5173	/auth
+20231115	11:33:19	3f64c669-bacf-4ec1-97b0-45841817b605	POST	http://localhost:5173	/auth
+20231115	11:33:22	595ff87e-9fa2-4ac3-bb0f-bbcafe398f49	GET	http://localhost:5173	/users
+20231115	11:33:22	b35a625c-a4b7-452e-b784-08f80a6002fd	GET	http://localhost:5173	/users
+20231115	11:33:56	a9c8b75f-500e-4f25-857b-11b31014701c	GET	undefined	/users
+20231115	11:33:56	8d9eb472-fc53-4ac8-846d-177991027c3d	GET	undefined	/favicon.ico
